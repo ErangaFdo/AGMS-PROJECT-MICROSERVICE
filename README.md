@@ -164,4 +164,7 @@ AGMS is a **modern microservices-based solution** for agricultural management, i
 
 ---
 
+<img width="982" height="586" alt="image" src="https://github.com/user-attachments/assets/17fdb1cc-acf8-44e3-be2d-3af45e057e93" />
+
+
 ⭐ *Feel free to contribute or fork this project!*
